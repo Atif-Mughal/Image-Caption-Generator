@@ -16,4 +16,6 @@ from keras.models import Model, load_model
 from keras.layers import Input, Dense#Keras to build our CNN and LSTM
 from keras.layers import LSTM, Embedding, Dropout
 from tqdm import tqdm_notebook as tqdm #to check loop progress
-tqdm().pandas()
+tqdm().pandas(
+    
+)
